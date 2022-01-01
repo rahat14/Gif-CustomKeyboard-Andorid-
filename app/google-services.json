@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958185429561",
+    "project_id": "android-customkeyboard",
+    "storage_bucket": "android-customkeyboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958185429561:android:663eaa30c47c4dad230be8",
+        "android_client_info": {
+          "package_name": "com.syntext_error.demoKeyBoard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958185429561-e1jj3re9vlri54s4q11dr74celu5b5b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtFfhrNN4ZnCzfASnEJVX4TNhwWIPk6c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958185429561-e1jj3re9vlri54s4q11dr74celu5b5b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
